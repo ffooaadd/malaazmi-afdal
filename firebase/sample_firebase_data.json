@@ -1,0 +1,34 @@
+{
+  "malaazim": {
+    "secondary": {
+      "third": {
+        "الرياضيات": {
+          "title": "ملزمة رياضيات ثالث متوسط",
+          "image": "https://example.com/math3-thumbnail.jpg",
+          "url": "https://firebasestorage.googleapis.com/v0/b/example.appspot.com/o/math3.pdf?alt=media"
+        },
+        "العلوم": {
+          "title": "ملزمة علوم ثالث متوسط",
+          "image": "https://example.com/science3-thumbnail.jpg",
+          "url": "https://firebasestorage.googleapis.com/v0/b/example.appspot.com/o/science3.pdf?alt=media"
+        }
+      }
+    }
+  },
+  "books": {
+    "secondary": {
+      "third": {
+        "الرياضيات": {
+          "title": "كتاب رياضيات ثالث متوسط",
+          "image": "https://example.com/book-math3.jpg",
+          "url": "https://firebasestorage.googleapis.com/v0/b/example.appspot.com/o/book-math3.pdf?alt=media"
+        },
+        "العلوم": {
+          "title": "كتاب علوم ثالث متوسط",
+          "image": "https://example.com/book-science3.jpg",
+          "url": "https://firebasestorage.googleapis.com/v0/b/example.appspot.com/o/book-science3.pdf?alt=media"
+        }
+      }
+    }
+  }
+}
