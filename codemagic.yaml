@@ -1,0 +1,5 @@
+workflows:
+  android-workflow:
+    name: Build APK
+    scripts:
+      - ./gradlew assembleDebug
