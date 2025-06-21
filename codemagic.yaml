@@ -6,6 +6,7 @@ workflows:
       vars:
         JAVA_VERSION: 17
     scripts:
+      - chmod +x ./gradlew
       - ./gradlew clean
       - ./gradlew assembleDebug
     artifacts:
