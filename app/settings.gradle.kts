@@ -2,6 +2,7 @@ pluginManagement {
     repositories {
         google()
         mavenCentral()
+        maven("https://jitpack.io") // ✅ لدعم مكتبات من GitHub مثل android-pdf-viewer
         gradlePluginPortal()
     }
 }
@@ -11,7 +12,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven("https://jitpack.io")
+        maven("https://jitpack.io") // ✅ تأكد أن هذا موجود لدعم jitpack
     }
 }
 
